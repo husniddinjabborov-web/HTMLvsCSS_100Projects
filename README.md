@@ -7,3 +7,8 @@
 - [3-topshiriq - Mahsulot Kartochkasi](https://youtu.be/WXeVxC9Xvd8)
 - [4-topshiriq - Mini Blog Post Kartochkasi](https://youtu.be/E7jZ2kpBc-M)
 - [5-topshiriq - Foydalanuvchi Fikri Kartochkasi](https://youtu.be/gN-a2vmH3sA)
+- [6-topshiriq - 3 ta Foydalanuvchi Fikri Kartochkasi](https://youtu.be/hM3oSZwXEns)
+- [7-topshiriq - Narxlar Jadvali Kartochkasi](https://youtu.be/_8jCBK406Bg)
+- [8-topshiriq - Sodda Responsive Navbar](https://youtu.be/xg5P23rdIQM)
+- [9-topshiriq - Hamburger Menyu (faqat HTML + CSS bilan)](https://youtu.be/y7ySYofie_s)
+- [10-topshiriq - FAQ – Accordion (Savol-javob)](https://youtu.be/iZoiWJuGk74)
