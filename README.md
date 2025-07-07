@@ -17,3 +17,8 @@
 - [13-topshiriq - Xizmatlar Kartochkasi](https://youtu.be/--Sna1qAHdQ)
 - [14-topshiriq - Foydalanuvchi Ro'yxati](https://youtu.be/ujKiABNMul0)
 - [15-topshiriq - Portfolio – Loyiha Kartochkalari](https://youtu.be/9TUj80X14jI)
+- [16-topshiriq - Maqola Kartochkalari Blog Cards](https://youtu.be/Bb2wRD56X-Y)
+- [17-topshiriq - Statistik Kartochkalar (foydalanuvchi, layk, komment soni)](https://youtu.be/fGrTNzf0Z1o)
+- [18-topshiriq - Progress barli foydalanuvchi daraja kartochkasi](https://youtu.be/BqcF5tnQpLg)
+- [19-topshiriq - Resurslar kartochkasi (havolali blok)](https://youtu.be/TZjKhYEt_RM)
+- [20-topshiriq - Test Savollar Kartochkasi](https://youtu.be/QehFvevdJjI)
