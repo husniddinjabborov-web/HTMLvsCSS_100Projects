@@ -22,3 +22,8 @@
 - [18-topshiriq - Progress barli foydalanuvchi daraja kartochkasi](https://youtu.be/BqcF5tnQpLg)
 - [19-topshiriq - Resurslar kartochkasi (havolali blok)](https://youtu.be/TZjKhYEt_RM)
 - [20-topshiriq - Test Savollar Kartochkasi](https://youtu.be/QehFvevdJjI)
+- [21-topshiriq - Rasmli Tavsif Kartochkasi](https://youtu.be/40CLH15HzOs)
+- [22-topshiriq - Foydalanuvchi Profil Kartochkasi (Hover Effekti bilan)](https://youtu.be/KSiUiMIS2Cc)
+- [23-topshiriq - Tavsifli Rasm Kartochkasi (Hoverda Matn chiqsin)](https://youtu.be/uISW1RiPS_g)
+- [24-topshiriq - Narxlar kartochkasi](https://youtu.be/MFT-FLuAotk)
+- [25-topshiriq - Baholash Yulduzchalari Kartochkasi](https://youtu.be/IrMIHTwJq-8)
