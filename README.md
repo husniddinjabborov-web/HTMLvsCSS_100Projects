@@ -27,3 +27,8 @@
 - [23-topshiriq - Tavsifli Rasm Kartochkasi (Hoverda Matn chiqsin)](https://youtu.be/uISW1RiPS_g)
 - [24-topshiriq - Narxlar kartochkasi](https://youtu.be/MFT-FLuAotk)
 - [25-topshiriq - Baholash Yulduzchalari Kartochkasi](https://youtu.be/IrMIHTwJq-8)
+- [26-topshiriq - Ikki Tomonli Vizitka Kartochkasi](https://youtu.be/574dagxm-N4)
+- [27-topshiriq - Qisqacha Profil Kartochkasi](https://youtu.be/02zxcnR9eQg)
+- [28-topshiriq - Team A'zolari Kartochkalari](https://youtu.be/FaxdHm-dfdQ)
+- [29-topshiriq - Maqsad Kartochkalari (Goal Cards)](https://youtu.be/Phr9e2FqIbQ)
+- [30-topshiriq - Maxsus Taklif Kartochkasi](https://youtu.be/U2d9BfAthx4)
