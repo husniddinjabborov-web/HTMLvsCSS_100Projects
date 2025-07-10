@@ -32,3 +32,8 @@
 - [28-topshiriq - Team A'zolari Kartochkalari](https://youtu.be/FaxdHm-dfdQ)
 - [29-topshiriq - Maqsad Kartochkalari (Goal Cards)](https://youtu.be/Phr9e2FqIbQ)
 - [30-topshiriq - Maxsus Taklif Kartochkasi](https://youtu.be/U2d9BfAthx4)
+- [31-topshiriq - Obuna Bo‘lish Kartochkasi](https://youtu.be/VSd_prvP4Xo)
+- [32-topshiriq - Sharh (Fikr-mulohaza) Kartochkasi](https://youtu.be/j6QGVmtDPIw)
+- [33-topshiriq - Xizmatlar Kartochkalari](https://youtu.be/9y27VxvOu9w)
+- [34-topshiriq - Blog Maqola Kartochkasi](https://youtu.be/B1yjj0nzbak)
+- [35-topshiriq - Kurs Kartochkasi Yaratish](https://youtu.be/LTQioP4y4tY)
