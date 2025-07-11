@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f5f5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+.card {
+    width: 300px;
+    box-shadow: 0 0 10px gray;
+    border-radius: 8px;
+    padding: 16px;
+}
+
+.card img {
+    width: 100px;
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+}
+.card :is(h3, ul) {
+    list-style-type: none;
+    padding: 8px 16px;
+    text-align: center;
+}
+.card button {
+    border: 3px solid dodgerblue;
+    background: dodgerblue;
+    font-weight: bold;
+    color: white;
+    padding: 8px 16px;
+    margin: auto;
+    display: block;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+.card button:hover {
+    color: dodgerblue;
+    background: white;
+}

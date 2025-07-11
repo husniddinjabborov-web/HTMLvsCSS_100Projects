@@ -37,3 +37,8 @@
 - [33-topshiriq - Xizmatlar Kartochkalari](https://youtu.be/9y27VxvOu9w)
 - [34-topshiriq - Blog Maqola Kartochkasi](https://youtu.be/B1yjj0nzbak)
 - [35-topshiriq - Kurs Kartochkasi Yaratish](https://youtu.be/LTQioP4y4tY)
+- [36-topshiriq - Iqtibos Kartochkasi](https://youtu.be/CBiL7NbH_EE)
+- [37-topshiriq - Statistik Ma’lumot Kartochkasi](https://youtu.be/44FaziRnd88)
+- [38-topshiriq - Yutuqlar Kartochkasi](https://youtu.be/ueKPKDrbVHY)
+- [39-topshiriq - Mahsulot Taqqoslash Kartochkalari](https://youtu.be/tF3-Zik-7Pk)
+- [40-topshiriq - Pricing Table](https://youtu.be/Ujw-_phr8AY)

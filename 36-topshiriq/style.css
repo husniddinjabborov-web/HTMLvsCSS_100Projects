@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f5f5;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+}
+
+
+.card {
+    width: 300px;
+    height: auto;
+    transition: all 0.3s ease;
+    border-radius: 12px;
+    box-shadow: 0 0 10px gray;
+    background: white;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.card img {
+    border-radius: inherit;
+}
+
+.card q {
+    padding: 8px 16px;
+    display: block;
+}
+
+.card p {
+    padding: 8px 16px;
+    display: block;
+    text-align: center;
+}
