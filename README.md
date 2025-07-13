@@ -48,3 +48,8 @@
 - [43-topshiriq - Foydalanuvchi Profili Kartochkasi](https://youtu.be/Fjjx7QPrie0)
 - [44-topshiriq - Mobil Ilova Tavsifi Kartochkasi](https://youtu.be/c3N7aOWL0GY)
 - [45-topshiriq - Ijtimoiy Tarmoq Profil Kartochkasi](https://youtu.be/fkTyA0PAS0c)
+- [46-topshiriq - Jamoa A’zolari Kartochkasi](https://youtu.be/okR1OspGU6U)
+- [47-topshiriq - Video Kurs Kartochkasi](https://youtu.be/ORnkSQW7qAs)
+- [48-topshiriq - Fikr Qoldirish Kartochkasi (Testimonial Card)](https://youtu.be/mCBahPoWDgg)
+- [49-topshiriq - Yangilik Kartochkasi (News Card)](https://youtu.be/PzMBC-k0Nug)
+- [50-topshiriq - Statistik To‘plam Kartochkalari Responsive Counter Cards](https://youtu.be/-m-Bt-DrYNg)
